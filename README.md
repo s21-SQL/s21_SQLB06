@@ -1,4 +1,4 @@
-# Team 00 - Piscine SQL
+# Team 00 — SQL Bootcamp
 
 ## _Traveling Salesman Problem_
 
@@ -15,9 +15,9 @@ Resume: Today you will implementing a quick solution on SQL to achieve results o
 3. [Chapter III](#chapter-iii) \
     3.1. [Rules of the day](#rules-of-the-day)  
 4. [Chapter IV](#chapter-iv) \
-    4.1. [Exercise 00 - Classical TSP](#exercise-00-classical-tsp)  
+    4.1. [Exercise 00 — Classical TSP](#exercise-00-classical-tsp)  
 5. [Chapter V](#chapter-v) \
-    5.1. [Exercise 01 - Opposite TSP](#exercise-01-opposite-tsp)  
+    5.1. [Exercise 01 — Opposite TSP](#exercise-01-opposite-tsp)  
 
 ## Chapter I
 ## Preamble
@@ -56,7 +56,7 @@ Absolutely anything can be represented in SQL! Let's get started and have fun!
 
 
 ## Chapter IV
-## Exercise 00 - Classical TSP
+## Exercise 00 — Classical TSP
 
 | Exercise 00: Classical TSP|                                                                                                                          |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
@@ -83,7 +83,7 @@ Below is an example of the output data. Please sort the data by total_cost and t
 | ... | ... |
 
 ## Chapter V
-## Exercise 01 - Opposite TSP
+## Exercise 01 — Opposite TSP
 
 | Exercise 01: Opposite TSP|                                                                                                                          |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
